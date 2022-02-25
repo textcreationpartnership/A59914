@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some proposals, by a merchant, touching the coin</title>
+            <author>Sherman, Edmund, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59914</idno>
+            <idno type="STC">Wing S3383A</idno>
+            <idno type="STC">ESTC R219099</idno>
+            <idno type="EEBO-CITATION">99830624</idno>
+            <idno type="PROQUEST">99830624</idno>
+            <idno type="VID">35077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35077)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2078:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some proposals, by a merchant, touching the coin</title>
+                  <author>Sherman, Edmund, 17th cent.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 2: Edmond Sherman.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; dated at end: January 7th 1695.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Company Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposition">
+            <pb facs="tcp:35077:1"/>
+            <pb n="1" facs="tcp:35077:1" rendition="simple:additions"/>
+            <head>
+               <hi>Some</hi> PROPOSALS, <hi>by a Merchant, touching the</hi> COIN.</head>
+            <p>GREAT Obſtructions in Trade and in Receiving the King's Revenues, ariſes from theſe Two Objections:</p>
+            <p>Firſt, <hi>That Money is Clipp'd, or mix'd Mettal, or not Sterling.</hi>
+            </p>
+            <p>Secondly, <hi>That the Government hath not appointed any Perſons, or any certain way for Tradeſmen and Collectors of the King's Revenues, eaſily to know which is Sterling.</hi>
+            </p>
+            <p>Wherefore to prevent further Clipping, and to make Money paſs with more certainty, and to promote Trade and Eaſe in Collecting the King's Revenues, and as ſome preſent Remedy 'till Silver can be had and new Money Coin'd, it is Propoſed,</p>
+            <p>Firſt, That all old Money, as well Clipp'd as Unclipp'd, that is now or ſhall be by ſome ſhort time brought into the Exchequer, to have immediately ſtamp'd the exact Weight upon each Piece what it weighs, and alſo ſuch other Mark ſtamp'd upon it to declare it to be ſuch Sterling Money as ſhall paſs, as the Government ſhall think fit to have Sterling Money diſtinguiſh'd and known by, and that it may be Enacted, That all ſuch Money ſo ſtamp'd and mark'd, may paſs for Sterling. Crowns, Half-Crowns, Shillings or Six-Pences, as they are Coin'd for, but to paſs only ſo long as each piece continues of ſuch Weight as is ſo ſtamp'd upon it, but yet only 'till ſuch a time to be mentioned as can be thought New Money can be Coined; and after ſuch a Day the Exchequer obliged to take in again all that continues of ſuch a Weight as is ſo ſtamp'd upon it: By this the Ex<g ref="char:EOLhyphen"/>chequer loſeth Nothing, becauſe the Exchequer receives none back that is of leſs Weight than it was ſtamp'd for when delivered out. This will furniſh us with a great quantity of Money to circulate for preſent, 'till we can have Bullion to Coin: For this way of new Stamping can be ſooner done than new Coining; and may require more Silver to Coin the ſame quantity of New Money, if we ſhould Re-coin it: Haſte and Speed in bringing out Money that will paſs, is in this juncture almoſt as neceſſary, as Money it ſelf.</p>
+            <p>And by thus Stamping the preſent Weight upon each Piece, we ſhall prevent its further Clipping, becauſe no Man ſhall be oblig'd to take ſuch Money as is tender'd with leſs Weight than is ſtamp'd upon it.</p>
+            <p>Secondly, That Encouragement be given to bring out all old broad Money, which alſo muſt be done with ſome certainty of Weight, becauſe there is difference in it; wherefore let the old broad Money be all brought into the Exchequer, to have the Mark for Sterling put upon it, and on each Piece its exact Weight; and then it may be Enacted, That all ſuch old Money ſo mark'd for Sterling, and of ſuch and ſuch Weight, ſhall paſs for ſo much more, as the Government ſhall think fit to En<g ref="char:EOLhyphen"/>act it to paſs for; as ſuppoſe the Shilling of ſuch Weight for 12 ½ <abbr>d.</abbr> 13 <abbr>d.</abbr> 13 ½ <abbr>d.</abbr> to be ſtamp'd upon it, ac<g ref="char:EOLhyphen"/>cording to its Weight, and alſo the old Crowns, Half-Crowns, and Six-Pences, all <hi>pro Rato</hi> more or leſs, as ſhall be thought fit, according to its Weight.</p>
+            <p>Every Man will readily bring in his Money to be ſo ſtamp'd, and take a Tally for it, though it lies in the Exchequer Fourteen Days or a Month before he get his individial Money out again without Intereſt, becauſe in a Months time the ſame Money ſhall be delivered again to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that hath ſuch a Tally (which Tally may be made ſaleable or transferrable) with a Stamp of 5 6 or 8 <hi>per Cent.</hi> or more value as the Government ſhall think fit: Thus he that bringeth in the broadeſt Money ſhall have the greater value ſtamp'd upon it in proportion to its Weight; whereas if it ſhould be brought into the Mint to be Coin'd, each Man cannot have his Money, ſo ſoon out of the Mint as it may be by thus Stamping; but this broad Money alſo to paſs, by the New Stamp only, until ſuch a certain Day as ſhall be thought fit to be Enacted, always provided, That the ſaid broad Money be not diminiſh'd of the Weight ſo ſtamp'd upon it; and then the Exche<g ref="char:EOLhyphen"/>quer to take it in again on ſuch certain Day as ſhall be thought fit.</p>
+            <p>Thridly, That Encouragement be given by Act of Par<g ref="char:EOLhyphen"/>liament to bring out all old Mill'd Money, by Enacting that Mill'd Money ſhall paſs for ſome certain rate more then it is Coin'd for, but yet only 'till ſuch time as ſhall be thought fit, wherein a conſideration is to be had in what time all the old Money as well Clipp'd as Broad can be new Coin'd, or other Silver into new Money; and to make the time for paſſing the Mill'd Money accordingly: and that a Clauſe be brought in to fix a Day, That after <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch a Day no old Money Clipp'd or unclipp'd (otherwiſe than Mill'd Money) ſhall paſs in payment, that ſo we may once ſee an end of all old Money, and have nothing but new and old Mill'd Money; and if any old Money, Clipp'd or unclip'd, ſhall after ſuch a Day be found, it ſhall only ſell by the ounce at a rate leſs than Coin'd Money.</p>
+            <p>Fourthly, All old Money that is not brought into the Exchequer by ſuch a Day, to be mark'd and ſtamp'd for Sterling, the hazard of not being Sterling, ſhall lie upon the Proprietor.</p>
+            <p>Fifthly, That all new Money that ſhall be Coin'd may not paſs after it is leſs in weight than what the ſame is Coin'd for.</p>
+            <p>Thus taking all Money by weight it will for ever (Infallibly) deſtroy the Clipping Trade, for which ſo many have been Hang'd.</p>
+            <p>Object. <hi>This will give a great deal of trouble to weigh every piece of Money we take.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> I. He that will not be at the trouble of weigh<g ref="char:EOLhyphen"/>ing, deſerves to be the only Perſon that can ſuffer by want of Weight.</p>
+            <p>II. Were we not better undergoe the trouble of weigh<g ref="char:EOLhyphen"/>ing, and ſo know the true value of what we have, than be at the vaſt loſs and uncertainty we now are liable unto by Clipp'd Money.</p>
+            <p>It is the Wiſdom and Practiſe of ſome other Countries I have been in, and Trade to, to take all their Money by
+<pb facs="tcp:35077:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:35077:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:35077:3" rendition="simple:additions"/>Weight; and there no Man is Hang'd for Clipping, he can hurt no Man but himſelf; for the next Man will re<g ref="char:EOLhyphen"/>fuſe it by weighing.</p>
+            <p>But we may make weighing of Money very much eaſier than we (for want of uſe) think it to be, as for Inſtance, we may do as in other Countries; they tell 20 50 or 100 (or more pieces) of a ſort, and then putting all together they take here and there, 5 10 17 or 20 pieces and weigh ſo many together, and what ſuch a quantity wants in weight they judge (and paſs) or refuſe the whole, if the Man that pays it does not by ſo much over Money, make good the want of weight.</p>
+            <p>In ſome Places every Woman that ſells Fiſh, or Herbs, hath her Scales, and will refuſe all light Money.</p>
+            <p>I take Occaſion at this very Inſtant the more earneſtly, to preſs that all Money may paſs by weight, becauſe within theſe Two Days I have ſeen (in preſence of the Treſurer of the <hi>Tu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>key-Company</hi>) 13 Shillings of the Clipp'd Money in one Scale, and a Mill'd Five Shilling piece in another Scale, and the Five Shilling piece of Mill'd Money but weighed the 13 Shillings; This the Author avers to be true: The 13 Shillings were ſuppos'd to be mix'd Metal, by which you may Calculate what great Damage the King may loſe by ſuch ſort of Coin.</p>
+            <p>All this is Intended for publick Good; and if I were aſſured that what ever I ſhould aſk touching the Coin ſhould be done, I would only ſay let it paſs by weight as the only deſire of</p>
+            <closer>
+               <signed>EDMOND SHERMAN.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>SINCE the above-mentioned, I hear ſome diſcourſe, That if the King would Order all ſuch as pay Taxes, Cuſtoms and Exciſe in Mill'd Money, to have 10 <hi>per Cent.</hi> abated by the Collectors; and that it ſhould be paid out again at the old rate it were Coin'd for; and this is by ſome offer'd as an Expedient to bring out Mill'd Money to Circulate immediately.</p>
+            <p>To which it may be objected the difficulty for the Ex<g ref="char:EOLhyphen"/>chequer to account with every Receiver, and the difficulty for every Receiver to abate 10 <hi>per Cent.</hi> to each Man out of every ſmall Summ he receives: Beſides, This muſt be length of Time, for every Man would bring out his Mill'd Money but as his Tax grows due; It would put the King upon 10 <hi>per Cent.</hi> loſs (immediately) on all his Revenues, and yet far greater loſs follow; for as the Collector receives it he muſt pay it into the Exchequer, and the publick Affairs will require it to be paid out again preſenly; and if it be paid at the old rate, it will ſo ſpeedily come into Peoples hands, that every one will four Times a Year pay his Tax with 10 <hi>per Cent.</hi> abatement, nay perhaps 40 times over in Exciſe &amp; Cuſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms, becauſe Men are Daily paying thoſe Duties, whereby a vaſt Loſs may happen in Twelve Months.</p>
+            <p>Whereas by the Method propos'd in this Paper, every Man ſhall as well as the Exchequer take and pay his Money at ſuch certain Rates as aforeſaid, and the King will not loſe above 10 <hi>per Cent.</hi> by Mill'd Money at the end; which I propoſe, may be a Year before the time ſhall expire for the Money to paſs at the Rates herein mentioned; in which time, I hope, Affairs may be in a better poiſture to bear 10 <hi>per Cent.</hi> Loſs, and the very Intereſt the King pays, may amount to as much.</p>
+            <p>Laſtly, For Speed and Eaſe of Complaints, I have lately heard from <hi>Suffolk,</hi> That the Poor cannot get their Money to paſs for Proviſions, nor their Money return'd to the Exchequer, nor Exchang'd in the Countrey for New Money when it comes out. It is Propoſed, That Men of Loyalty to the King may be join'd to ſuch as are Skill'd in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver, who have leiſure to attend Daily, may by Commiſſion in every City, Countrey-Town, or Shire-Town have this new ſtamp'd Money and Mill'd Money, and New Coin'd Money ſent them out of the Exchequer, and they upon Oath, to the beſt of their Skill take in all Sterling Money and pay for it in the aforeſaid New Stamp'd, New Coin'd, or Mill'd Money ſent them, and Weekly return to the Exchequer, for Sterling Money under their Seals as they Receive, to be New Stamp'd in the Exchequer, as aforeſaid, and from thence iſſued out again as faſt as it can be Stamp'd; and by every Parcel ſo return'd under Seal it to the Evchequer, it will be judged what Commiſſioners perform their Duty beſt; This will be great Eaſe to the common People all the Kingdom over.</p>
+            <p>Some Men propoſe thst the Exchequer ſhould recieve from the Collectors all Money of mix'd Metal which the Collectors may have taken, that is not apparent Braſs, to which may be objected that (if any thing but Sterling be admitted) there are Reaſons to ſuſpect, that ſo many buſhels of mix'd Metal-Money may be paid to the Col<g ref="char:EOLhyphen"/>lectors, or by the Collectors of all Revenues (who are not upon Oath) paid to the Exchequer as may make Twice Twelve Hundred Thouſand Pounds too little to countervail the King's damage.</p>
+            <p>But if mix'd Metal-Money muſt paſs, then ſome plain Cautions and Directions may and ought to be given.</p>
+            <p>When we make New Money, it were to be wiſhed we might have ſuch a thing in our Coin as a Pound Sterling: by Coining Twenty-Shilling-Pieces, it would be more certain, and readier in telling great Sums; yea if we had Five Pound, Ten Pound, or greater Pieces, 'tis believed that a way may be contrived to ſecure ſuch large Money from being any ways Counterfeited.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>January 7th</hi> 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
